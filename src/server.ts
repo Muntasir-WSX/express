@@ -11,4 +11,8 @@ const main = async () => {
 }
 
 
+// Start the server
+// eslint-disable-next-line @typescript-eslint/no-floating-promises
+// eslint-disable-next-line @typescript-eslint/no-misused-promises
+
 main()
