@@ -11,6 +11,12 @@ const main = async () => {
 }
 
 
+const gracefulShutdown = () => {
+  console.log('Received shutdown signal, shutting down gracefully...');
+  process.exit(0);
+}
+
+
 // Start the server
 // eslint-disable-next-line @typescript-eslint/no-floating-promises
 // eslint-disable-next-line @typescript-eslint/no-misused-promises
