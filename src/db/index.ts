@@ -36,10 +36,7 @@ updated_at TIMESTAMP DEFAULT NOW()
 );
 
 
-// Add more tables as needed
-// CREATE TABLE IF NOT EXISTS posts (
-// id SERIAL PRIMARY KEY,
-// user_id INT NOT NULL REFERENCES users(id) ON DELETE CASCADE, 
+
 
 
 
