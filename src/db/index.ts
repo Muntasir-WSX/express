@@ -51,7 +51,3 @@ catch (err) {
 
 
 
-// qurban rwesumesion 1.00
-// 
-
-// eid ul adha mubarak to all muslims around the world. may this day bring joy, peace, and prosperity to everyone. let's celebrate this special occasion with love and kindness towards one another.
