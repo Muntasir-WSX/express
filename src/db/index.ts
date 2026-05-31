@@ -48,5 +48,3 @@ catch (err) {
 
 }
 
-// Call the initDB function to set up the database tables
-// Eid this to only run when this file is executed directly, not when imported as a module
